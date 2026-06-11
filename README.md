@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently Studying as a AI/DS engineering student.<br>- 🌱 I’m currently learning Python, AI, ML, LLM, SQL, Data<br>- 👯 I’m looking to collaborate on Projects and Hackathon.<br>- 🤔 I’m looking for help with Programming and Problem solving.<br>- 💬 Ask me about C/C++, Python and SQL, HTML.<br>- 📫 How to reach me: karadiguddshriya@gmail.com.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: nothing
+- 🔭 I’m currently Studying as a AI/DS engineering student.<br>- 🌱 I’m currently learning Python, AI, ML, LLM, SQL, Data<br>- 👯 I’m looking to collaborate on Projects and Hackathon.<br>- 🤔 I’m looking for help with Programming and Problem solving.<br>- 📫 How to reach me: karadiguddshriya@gmail.com.<br>- 
 
 
 ## 🌐 Socials:
